@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight } from 'lucide-react';
+import { ArrowUpRight } from 'lucide-react';
 
 const offeringList = [
   { id: '01', category: 'Office of multiple interest content', title: 'Colaborative & partnership' },
@@ -31,7 +31,7 @@ export default function Services() {
               <h4 className="text-xl font-normal text-gray-900">
                 {item.title}
               </h4>
-              <ArrowRight className="w-5 h-5 text-gray-400 group-hover:text-black group-hover:translate-x-1 transition-transform" />
+              <ArrowUpRight className="w-5 h-5 text-gray-400 group-hover:text-black group-hover:translate-x-1 transition-transform" />
             </div>
           </div>
         ))}
