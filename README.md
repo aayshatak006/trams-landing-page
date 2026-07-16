@@ -11,4 +11,3 @@ A clean, responsive landing page built with React, Vite, and Tailwind CSS based 
 - Vite
 - Tailwind CSS
 - Lucide React (Icons)
--
